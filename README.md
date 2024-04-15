@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **I'm Hadeel, a Fullstack web developer.**
-I'm passionate about developing dynamic user-friendly websites.
+*<h6>I'm passionate about developing dynamic user-friendly websites.</h6>*
 
 
 **Here are some of my skills and interests:**
